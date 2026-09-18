@@ -269,15 +269,15 @@ In Part 1, only plain HTML existed. In Part 2, the three CSS locations are used:
 
 | **Date** | **Version** | **Change** |
 | :--- | :--- | :--- |
-| 18 Sept 2026 | 1.0 | Created external stylesheet `styles.css` and linked to all 5 pages |
-| 18 Sept 2026 | 1.1 | Added CSS reset, base styles, and colour scheme |
-| 18 Sept 2026 | 1.2 | Applied typography (Arial body, Georgia headings, cursive script) |
-| 18 Sept 2026 | 1.3 | Redesigned header with centred logo and LFA divider |
-| 18 Sept 2026 | 1.4 | Made navigation horizontal with hover effects |
-| 18 Sept 2026 | 1.5 | Added homepage feature cards with background images |
-| 18 Sept 2026 | 1.6 | Added History section and About strip |
-| 18 Sept 2026 | 1.7 | Rebuilt Gallery page as 3-column grid with captions |
-| 18 Sept 2026 | 1.8 | Split League page into Fixtures (left) and Table (right) |
+| 11 Sept 2026 | 1.0 | Created external stylesheet `styles.css` and linked to all 5 pages |
+| 11 Sept 2026 | 1.1 | Added CSS reset, base styles, and colour scheme |
+| 11 Sept 2026 | 1.2 | Applied typography (Arial body, Georgia headings, cursive script) |
+| 15 Sept 2026 | 1.3 | Redesigned header with centred logo and LFA divider |
+| 15 Sept 2026 | 1.4 | Made navigation horizontal with hover effects |
+| 15 Sept 2026 | 1.5 | Added homepage feature cards with background images |
+| 15 Sept 2026 | 1.6 | Added History section and About strip |
+| 15 Sept 2026 | 1.7 | Rebuilt Gallery page as 3-column grid with captions |
+| 15 Sept 2026 | 1.8 | Split League page into Fixtures (left) and Table (right) |
 | 18 Sept 2026 | 1.9 | Added link pseudo-classes for all 5 states |
 | 18 Sept 2026 | 2.0 | Added responsive media queries at 960px and 480px |
 | 18 Sept 2026 | 2.1 | Added responsive images with `max-width: 100%` |

@@ -6,7 +6,14 @@
 **Module:** WEDE5020 — Web Development (Introduction)  
 **Project:** Mabopane Local Football Association (MABLFA) Website
 
----
+Screenshots of the website in different screensizes
+
+
+![Desktop View](images/Landscape full.png)
+
+![Desktop View](images/Portrait Top Halve page.png)
+![Desktop View](images/Portrait Bottom Halve page.png)
+
 
 ## 1. Introduction
 
